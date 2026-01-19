@@ -2,7 +2,7 @@ package org.example.model.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.example.model.dto.Student;
+
 
 @Getter
 @Setter
